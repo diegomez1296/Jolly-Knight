@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    margin: 0;
+
+    background-image: url("JollyKnight_FinalBackground.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-size:1.3vw;
+}
+
+.responsiveHeroImage {
+    width: 100%;
+    height: auto;
+    max-width: 192px;
+}

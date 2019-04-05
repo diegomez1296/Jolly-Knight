@@ -1,0 +1,137 @@
+.main-view h3 {
+    width: 10%;
+    margin: 0;
+    padding: 5px;
+}
+
+.main-view h2 {
+    width: 17%;
+    padding: 0px;
+    text-align: center;
+
+    background-color: #808080;
+    opacity: 0.8;
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+
+    margin-top: 0px;
+    margin-left: -1px;
+    margin-right: 20px;
+
+}
+.main-view {
+
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+
+    background-image: url("backImage.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-view div {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0px;
+
+}
+.main-view div.vaadin-button-container {
+    width: 75px;
+
+}
+
+.upg-buttons-layout {
+    margin-top: 80px;
+}
+
+.mission-button {
+    /*margin-left: 40%;*/
+    left: 20px;
+    width: 245px;
+    background-color: #808080;
+    opacity: 0.8;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.notif-button {
+    margin-left: 60%;
+    margin-top: 15px;
+}
+
+.notif-hX {
+    text-align: center;
+}
+
+.upgr-notif-title {
+    width: 300px;
+    text-align: center;
+}
+
+.upg-butt-notif {
+    margin-top: 10px;
+    margin-right: 35%;
+    margin-left: 10%;
+}
+
+.verticalLayoutForMissions {
+    width: 90%;
+    height: 100%;
+    margin-top:0px;
+}
+
+.imageAvatar {
+    width: 207px;
+    height: 400px;
+    margin-top:55px;
+}
+
+.progressBarNextLvl {
+    width: 70%;
+    height: 35%;
+}
+
+.MissionTab {
+
+    opacity: 0.8;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+
+    color: black;
+    border: 2px solid #555555;
+}
+
+.MissionTab:hover {
+    background-color: #555555;
+    color: white;
+}
