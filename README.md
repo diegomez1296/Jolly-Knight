@@ -23,4 +23,4 @@ https://jollyknight.herokuapp.com/
 https://imgur.com/a/ANk3StV
 
 ### Other:
-- The project uses concept graphics from [Kingdom Come: Deliverance] (https://www.kingdomcomerpg.com/)
+- The project uses concept graphics from [Kingdom Come: Deliverance](https://www.kingdomcomerpg.com/)
