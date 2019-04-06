@@ -1,23 +1,26 @@
-# Project Base for Vaadin Flow and Spring Boot
+# Jolly Knight
 
-This project can be used as a starting point to create your own Vaadin Flow application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
+### General:
+Academic browser game project. The player sends his knight on a mission. After completing the mission, we receive experience points and resources to improve your inventory. For experience points, we get a higher level that unlocks the next mission.
 
-The best way to use it by via [vaadin.com/start](https://vaadin.com/start) - you can get only the necessary parts and choose the package naming you want to use.
+### Technology stack:
+- JAVA 8
+- Spring Boot
+- Vaadin Flow
+- Lombok
+- H2 database
 
-Import the project to the IDE of your choosing as a Maven project. 
+### Team:
+- [Me](https://github.com/diegomez1296) -> Programmer
+- [FoxFromDarkness](https://github.com/FoxFromDarkness) -> Graphic Designer
 
-Run application using `mvn spring-boot:run` or directly running Application class from your IDE.
+### Heroku link:
+Please, o not use your real data like name, surname, email, password!!!
 
-Open http://localhost:8080/ in browser
+https://jollyknight.herokuapp.com/
 
+### Galery:
+https://imgur.com/a/ANk3StV
 
-For documentation on using Vaadin Flow and Spring, visit [vaadin.com/docs](https://vaadin.com/docs/v10/flow/spring/tutorial-spring-basic.html)
-
-For more information on Vaadin Flow, visit https://vaadin.com/flow.
-
-Branching information:
-* `master` the latest version of the starter, using the latest platform snapshot
-* `V10` the version for Vaadin 10
-* `V11` the version for Vaadin 11
-* `V12` the version for Vaadin 12
+### Other:
+- The project uses concept graphics from [Kingdom Come: Deliverance] (https://www.kingdomcomerpg.com/)
